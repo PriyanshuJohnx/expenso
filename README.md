@@ -1,4 +1,4 @@
-# 💸 Expense Tracker Pro (React)
+# 💸 Expenso (React)
 
 A modern, feature-rich **Expense Tracking Web Application** built using **React (Vite)**.
 Track expenses, manage budgets, set goals, and gain insights through interactive analytics.
